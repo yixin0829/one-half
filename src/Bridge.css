@@ -1,0 +1,10 @@
+.normal-tile{
+  position: absolute;
+  width: 65px;
+  height: 66px;
+  left: 268px;
+  top: calc(50% - 66px/2 + 32.5px);
+
+  background: #C4C4C4;
+  border-radius: 10px;
+}
